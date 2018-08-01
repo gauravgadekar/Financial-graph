@@ -5,6 +5,8 @@ app=Flask(__name__)
 @app.route('/plot/')
 def plot():
     from pandas_datareader import data
+    import pandas as pd
+    pd.core.common.is_list_like = pd.api.types.is_list_like
     import datetime
     from bokeh.plotting import show,figure,output_file
     from bokeh.embed import components
