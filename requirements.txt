@@ -19,7 +19,6 @@ MarkupSafe==1.0
 numpy==1.15.0
 pandas==0.23.3
 pandas-datareader==0.6.0
-python-apt==1.6.2
 python-dateutil==2.7.3
 python-debian==0.1.32
 pytz==2018.5
