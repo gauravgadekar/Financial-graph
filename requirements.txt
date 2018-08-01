@@ -20,7 +20,6 @@ numpy==1.15.0
 pandas==0.23.3
 pandas-datareader==0.6.0
 python-dateutil==2.7.3
-python-debian==0.1.32
 pytz==2018.5
 PyYAML==3.13
 requests==2.19.1
