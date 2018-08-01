@@ -26,7 +26,6 @@ PyYAML==3.13
 requests==2.19.1
 requests-file==1.4.3
 six==1.11.0
-system-service==0.3
 systemd-python==234
 tornado==5.1
 Werkzeug==0.14.1
